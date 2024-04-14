@@ -3,6 +3,10 @@
 
 ![main](./README_IMAGE/main.png)
 
+## 📺 소개 영상(Youtube)
+
+[https://www.youtube.com/watch?v=BRsZ-QLNDRM](https://www.youtube.com/watch?v=BRsZ-QLNDRM)
+
 ## 💡 주요 기능
 - `게임` 플레이어와 함께 추격 보드 게임을 즐길 수 있습니다.
 - `상점` 획득한 골드로 나만의 NFT 말을 뽑을 수 있습니다.
